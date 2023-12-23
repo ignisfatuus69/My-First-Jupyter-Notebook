@@ -1,0 +1,19 @@
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb_meta
+
+# Jupyter temporary files
+.ipynb_checkpoints/*
+*.ipynb_checkpoints/*
+*.ipynb_meta/*
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments (if used)
+venv/
+env/
