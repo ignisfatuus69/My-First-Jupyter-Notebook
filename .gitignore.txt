@@ -17,3 +17,27 @@ __pycache__/
 # Virtual environments (if used)
 venv/
 env/
+
+# Jupyter kernel and runtime configuration
+*/.local/
+*/.cache/
+
+# Data files and directories (specific file extensions can be added)
+data/
+*.csv
+*.xlsx
+*.txt
+
+# Compiled files
+*.pyc
+
+# Log files
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# System-specific or temporary files
+.DS_Store
+thumbs.db
